@@ -47,7 +47,7 @@ The ER configuration will refer to the provider as the author of the configurati
 
 Import the ER data model configuration of each ER solution in the tables above before you import the corresponding ER format configuration.
 
-1.  In the navigation pane, go to **Modules** > **Organization administration** > **Worksspaces** >**Electronic reporting** 
+1.  In the navigation pane, go to **Modules** > **Organization administration** > **Work spaces** >**Electronic reporting** 
 
 2.  Select **Reporting Configurations** tile.
 
